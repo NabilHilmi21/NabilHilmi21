@@ -1,6 +1,6 @@
 **Hello (●'◡'●), welcome to my GitHub profile!**
 
-This is where I share my coding journey, mini (or hopefully big) projects, and other coding-related stuff. Feel free to check out my work and drop any suggestions!
+This is where I share my coding journey, mini (and hopefully big) projects, and other coding-related things. Right now, I’m mainly focused on web development, with the goal of building a fully dynamic website!
 
 **Thanks for stopping by! ☆: .｡. o(≧▽≦)o .｡.:☆**
 <!---
