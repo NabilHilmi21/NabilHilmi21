@@ -1,6 +1,8 @@
 # Nabil Hilmi
 Frontend Engineering and Backend Development
 
+---
+
 ## Profile
 
 My primary focus lies in frontend engineering, where design systems, typography, motion, and user experience intersect with software development.
