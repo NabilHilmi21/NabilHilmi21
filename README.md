@@ -5,7 +5,7 @@ Frontend Engineering and Backend Development
 
 My primary focus lies in frontend engineering, where design systems, typography, motion, and user experience intersect with software development.
 
-Beyond interface development, I enjoy working across the stack—designing APIs, managing databases, and integrating machine learning models into production-ready applications.
+Beyond interface development, I enjoy working across the stack, designing APIs, managing databases, and integrating machine learning models into production-ready applications.
 
 ---
 
