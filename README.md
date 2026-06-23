@@ -1,7 +1,5 @@
 # Nabil Hilmi
-
-Frontend Engineering | Backend Development |
----
+Frontend Engineering and Backend Development
 
 ## Profile
 
